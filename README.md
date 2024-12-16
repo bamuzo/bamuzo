@@ -15,4 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bamuzo&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/bamuzo/bamuzo/output/snake.svg" alt="Snake animation" />
+
